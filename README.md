@@ -5,7 +5,13 @@
 
 <hr>
 ### About<br>
-User Management System where we can add user , update user details , delete user And read User from Database.
+User Management System where we can add user , update user details , delete user And read User from Database.<br>
+
+Following features in our User Management web application:<br>
+1.Create a User<br>
+2.Update a User<br>
+3.Delete a User<br>
+4.Retrieve a User<br>
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Implementation of Servlets in Java and MVC Design pattern
